@@ -17,7 +17,7 @@ const UserBlogs = () => {
 
   useEffect(() => {
     sendRequest().then((data) => setUser(data.user));
-  }, []);
+  }, []);// eslint-disable-next-line react-hooks/exhaustive-deps
   return (
     <div>
       {user &&

@@ -39,7 +39,7 @@ const BlogDetail = () => {
         description: data.blog.description,
       });
     });
-  }, [id]);
+  }, [id]);// eslint-disable-next-line react-hooks/exhaustive-deps
   console.log(blog);
 
   const sendRequest = async () => {
