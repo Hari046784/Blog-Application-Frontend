@@ -1,0 +1,28 @@
+.headfont {
+    font-style:normal;
+    margin-left: 580px;
+    color: rgb(215, 208, 161);
+    
+}
+.header-container {
+    width: 100%;
+}
+
+.ajust {
+    height: 40px;
+}
+
+.logo {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* margin-left: 10px; */
+    width: 70px;
+}
+
+.functnButton {
+    
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+

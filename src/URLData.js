@@ -1,0 +1,1 @@
+export const REACT_APP_BASE_URL="https://blog-application-u5jh.onrender.com";

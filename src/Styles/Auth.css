@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+* {
+  margin: 0;
+  font-family: "Roboto";
+}
+
+@media screen and (max-width: 912px) {
+  .auth-form-container > form {
+    width: 80%;
+    margin-top: 5rem;
+  }
+}
